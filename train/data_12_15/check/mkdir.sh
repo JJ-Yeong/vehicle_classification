@@ -1,0 +1,1 @@
+mkdir bus truck-4W-FT truck-5W-FT truck-6W-ST truck-m-b truck-s-a car truck-4W-ST truck-5W-ST truck-m-a truck-m-c truck-s-b
