@@ -5,8 +5,6 @@ from torch.utils.data import Dataset, DataLoader
 from typing import Any, Callable, cast, Dict, List, Optional, Tuple 
 # 나중에 자료형 힌트 연습해보기, torchvision/datasets/folder.py 참조. (ImageFolder 원본 타고들어가면 나옴) 
 
-from config import *
-
 
 IMG_EXTENSIONS = [
     '.jpg', '.JPG', '.jpeg', '.JPEG',
